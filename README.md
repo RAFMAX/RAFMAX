@@ -115,8 +115,6 @@ $ echo $CURRENT_GOAL
 `> Feel free to connect or collaborate`
 
 [![GitHub](https://img.shields.io/badge/GitHub-rafmax-181717?style=flat-square&logo=github)](https://github.com/rafmax)
-[![Email](https://img.shields.io/badge/Email-contact-00d4aa?style=flat-square&logo=gmail)](mailto:your@email.com)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=rafmax&color=00d4aa&style=flat-square&label=PROFILE+VIEWS)
+[![Email](https://img.shields.io/badge/Email-contact-00d4aa?style=flat-square&logo=gmail)](mailto:raouf.benoud@gmail.com)
 
 </div>
