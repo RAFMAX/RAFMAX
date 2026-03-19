@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝     
 ```
 
-### `> CS Student · Backend Developer · Flutter Developer · Security Enthusiast`
+### `> CS Student · Backend Developer · Mobile Developer · Security Enthusiast`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Building+Flutter+apps+from+Algiers+🇩🇿;Web+Exploitation;Backend;Always+learning)](https://git.io/typing-svg)
 
