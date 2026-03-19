@@ -69,7 +69,7 @@ $ echo $CURRENT_GOAL
 </td>
 <td valign="top" width="25%">
 
-**⚙️ 3D Design**
+**🧊 3D Design**
 - CAD
 - Game Dev
 - Archviz
