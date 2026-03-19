@@ -17,6 +17,16 @@
 
 ---
 
+## Tech Stack
+
+<div align="center">
+
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dart,flutter,java,python,c,html,css,js,threejs,php,laravel,bash,linux,mysql,firebase&theme=dark)](https://go-skill-icons.vercel.app)
+
+</div>
+
+---
+
 ## About Me
  
 ```bash
@@ -83,15 +93,6 @@ $ echo $CURRENT_GOAL
 
 ---
 
-## Tech Stack
-
-<div align="center">
-
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dart,flutter,java,python,c,html,css,js,threejs,php,laravel,bash,linux,mysql,firebase&theme=dark)](https://go-skill-icons.vercel.app)
-
-</div>
-
----
 
 <div align="center">
 
