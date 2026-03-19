@@ -25,15 +25,13 @@ $ whoami
  
 $ cat interests.txt
 > Mobile development with Flutter & Dart
-> Web security & CTF challenges (PortSwigger Academy)
-> Computer networking — Cisco IOS, routing, ARP, Packet Tracer
-> Systems programming — OS scheduling, Linux internals
-> Backend architecture — REST APIs, Laravel, microservices
+> Web security & CTF challenges
+> Computer networking
+> Backend architecture
  
 $ cat mindset.txt
 > I don't just write code — I study how systems are built,
   how they communicate, and how they break.
-  That mindset shapes everything I build.
  
 $ echo $CURRENT_GOAL
 > Sharpen offensive security skills · Ship real Flutter apps · Keep learning
@@ -64,10 +62,9 @@ $ echo $CURRENT_GOAL
 <td valign="top" width="25%">
 
 **⚙️ Backend**
-- SQL Injection
-- XSS · SSRF · SSTI
-- JWT Attacks
-- Burp Suite
+- Laravel
+- PHP
+- MySQL
 
 </td>
 <td valign="top" width="25%">
