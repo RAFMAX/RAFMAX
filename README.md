@@ -17,7 +17,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
  
 ```bash
 $ whoami
@@ -39,7 +39,7 @@ $ echo $CURRENT_GOAL
 
 ---
 
-## ⚡ Skills
+## Skills
 
 <table>
 <tr>
@@ -83,7 +83,7 @@ $ echo $CURRENT_GOAL
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
