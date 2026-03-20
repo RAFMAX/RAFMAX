@@ -21,7 +21,7 @@
 
 <div align="center">
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dart,flutter,java,python,c,html,css,js,threejs,php,laravel,bash,linux,mysql,firebase&theme=dark)](https://go-skill-icons.vercel.app)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dart,flutter,java,python,c,html,css,js,threejs,bash,linux,mysql,firebase&theme=dark)](https://go-skill-icons.vercel.app)
 
 </div>
 
