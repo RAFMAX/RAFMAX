@@ -9,9 +9,9 @@
 ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝     
 ```
 
-### `> CS Student · Backend Developer · Mobile Developer · Security Enthusiast`
+### `> CS Student · Mobile Developer · Security Enthusiast`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Building+Flutter+apps;Web+Exploitation;Backend+Development;Always+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Building+Flutter+apps;Web+Exploitation;Always+learning)](https://git.io/typing-svg)
 
 </div>
 
@@ -68,13 +68,6 @@ $ echo $CURRENT_GOAL
 - JWT Attacks
 - Burp Suite
 
-</td>
-<td valign="top" width="25%">
-
-**⚙️ Backend**
-- Laravel
-- PHP
-- MySQL
 
 </td>
 <td valign="top" width="25%">
