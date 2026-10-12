@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝     
 ```
 
-### `> CS Student · Mobile Developer · Security Enthusiast`
+### `> CS Student · Software Developer · Experienced 3D Artist · Security Enthusiast`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Building+Flutter+apps;Web+Exploitation;Always+learning)](https://git.io/typing-svg)
 
